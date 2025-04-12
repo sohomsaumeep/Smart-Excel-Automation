@@ -3,6 +3,7 @@ A demo showcasing Excel automation using scripts to streamline workflows, elimin
 
 
 # Excel Automation Demo 📊  
+![ivory excel automation shortened](https://github.com/user-attachments/assets/70d932cb-aba4-4e8a-8a3f-c8e6210d46b3)
 
 ## Watch It in Action 🎥  
 
